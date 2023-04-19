@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@k0ff/hello": "git+ssh://git@github.com/k0ff/hello.ts.git"
+  }
+}

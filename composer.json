@@ -1,0 +1,20 @@
+{
+  "require": {
+    "k0ff/hello":"dev-main"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git+ssh://git@github.com/k0ff/hello.php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git+ssh://git@github.com/k0ff/hello-subdependent.php.git"
+    }    
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src"
+    }
+  }
+}

@@ -1,1 +1,1 @@
-git+ssh://git@github.com/k0ff/hello.py.git
+k0ff.hello @ git+ssh://git@github.com/k0ff/hello.py.git

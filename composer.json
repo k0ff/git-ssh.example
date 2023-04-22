@@ -1,6 +1,6 @@
 {
   "require": {
-    "k0ff/hello":"dev-main"
+    "k0ff/hello":"0.1.*"
   },
   "repositories": [
     {
@@ -9,8 +9,8 @@
     },
     {
       "type": "vcs",
-      "url": "git+ssh://git@github.com/k0ff/hello-subdependent.php.git"
-    }    
+      "url": "git+ssh://git@github.com/k0ff/hello.php-subdependent.git"
+    }  
   ],
   "autoload": {
     "psr-4": {

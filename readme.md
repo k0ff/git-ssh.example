@@ -1,8 +1,8 @@
 
 ### Python
 ```
-python -m venv env
-env\Scripts\activate
+python -m venv venv
+venv\Scripts\activate
 pip install -r requirements.txt
 python main.py
 ```
